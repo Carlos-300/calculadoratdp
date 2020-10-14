@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">calculadorTDP</string>
+    <string-array name="spnWatts_items">
+        <item>400</item>
+        <item>450</item>
+        <item>500</item>
+        <item>550</item>
+        <item>600</item>
+        <item>650</item>
+        <item>700</item>
+        <item>750</item>
+        <item>1000</item>
+    </string-array>
+</resources>
